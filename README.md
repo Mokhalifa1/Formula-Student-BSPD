@@ -1,7 +1,7 @@
 # Formula-Student-BSPD
 Fail-safe analogue BSPD design for Formula Student (T 11.6 compliant)
 
-# The Problem
+## The Problem
 In Formula Student, a driver can accidentally apply brake and throttle at the same time. A BSPD must detect this "implausibility" and cut the shutdown circuit (SDC) to prevent a DNF or crash.
 
 # Design Highlights
